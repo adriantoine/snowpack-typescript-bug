@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "add": "snowpack add",
+    "tsc": "tsc",
+    "prepare": "snowpack prepare"
+  },
+  "devDependencies": {
+    "@snowpack/plugin-typescript": "^1.2.1",
+    "prettier": "^2.2.1",
+    "snowpack": "^3.0.1",
+    "typescript": "^4.1.3"
+  },
+  "dependencies": {}
+}
